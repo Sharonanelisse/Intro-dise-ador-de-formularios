@@ -1,0 +1,17 @@
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\bin\Debug\net8.0-windows\PruebaWin Form.exe
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\bin\Debug\net8.0-windows\PruebaWin Form.deps.json
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\bin\Debug\net8.0-windows\PruebaWin Form.runtimeconfig.json
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\bin\Debug\net8.0-windows\PruebaWin Form.dll
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\bin\Debug\net8.0-windows\PruebaWin Form.pdb
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\obj\Debug\net8.0-windows\PruebaWin_Form.FormularioContacto.resources
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\obj\Debug\net8.0-windows\PruebaWin_Form.Properties.Resources.resources
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\obj\Debug\net8.0-windows\PruebaWin Form.csproj.GenerateResource.cache
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\obj\Debug\net8.0-windows\PruebaWin Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\obj\Debug\net8.0-windows\PruebaWin Form.AssemblyInfoInputs.cache
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\obj\Debug\net8.0-windows\PruebaWin Form.AssemblyInfo.cs
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\obj\Debug\net8.0-windows\PruebaWin Form.csproj.CoreCompileInputs.cache
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\obj\Debug\net8.0-windows\PruebaWin Form.dll
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\obj\Debug\net8.0-windows\refint\PruebaWin Form.dll
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\obj\Debug\net8.0-windows\PruebaWin Form.pdb
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\obj\Debug\net8.0-windows\PruebaWin Form.genruntimeconfig.cache
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\PruebaWin Form\PruebaWin Form\obj\Debug\net8.0-windows\ref\PruebaWin Form.dll
